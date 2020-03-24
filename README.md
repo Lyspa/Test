@@ -7,3 +7,5 @@ Modif dans le branche TestFonction
 Ce premier projet, issu d'un tutoriel, permet de me familiariser avec GitHub.
 
 Ceci est un projet réalisé par Céline RAILLÉ
+
+Cette phrase a été ajoutée depuis mon ordinateur.
